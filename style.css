@@ -1,0 +1,22 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    position: relative;
+    color: violet;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+footer{
+    background-color: rgb(232, 232, 232);
+    text-align: center;
+    text-decoration:wavy;
+    height: 100px;
+}
+.img_nivea{
+    height: 250px;
+    width: 90px;
+}
